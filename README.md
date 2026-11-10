@@ -1,4 +1,4 @@
-## SEjam Bem-Vindos ao Meu Repositório!
+## Sejam Bem-Vindos ao Meu Repositório!
 ------------
 👽 Olá me chamo Ricardo Paiva!
 
