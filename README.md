@@ -1,16 +1,13 @@
-## Hi there 👋
+## SEjam Bem-Vindos ao Meu Repositório!
+------------
+👽 Olá me chamo Ricardo Paiva!
 
-<!--
-**rjrpaiva/rjrpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Sou Analista de Sistema, Bacharel em Ciência da Computação e Pós-Graduado em Gestão de Projetos.
 
-Here are some ideas to get you started:
+🖥️ Atualmente estou desenvolvendo um sistema web para realização de orçamentos de peças 3D, que será depois disponbilizado gratuitamente no meu repositório.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫[Acesse o meu Linkedin](http://br.linkedin.com/in/ricardo-jose-rangel-paiva)
+
+![Ricardo Paiva GitHub stats](https://github-stats-extended.vercel.app/api?username=rjrpaiva)
+
+![Ricardo Paiva GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=rjrpaiva&amp;langs_count=4&theme=light_github)
